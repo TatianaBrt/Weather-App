@@ -1,5 +1,5 @@
 body{
-        background-image: url(https://img.freepik.com/free-photo/fresh-grass-with-sky-background_1149-1042.jpg?1&w=740&t=st=1662406566~exp=1662407166~hmac=83870c7468c5adaab439cd349093b03d034298e61212672c7b2d242370bcb040);
+        background-image: url(https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2t5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
         background-repeat: no-repeat;
         background-size: cover;
         background-color: #3CCF4E;
@@ -163,6 +163,6 @@ body{
             }
             #header{
                 display: flex;
-                justify-content: flex-start;
+                justify-content: center;
         }  
     }
