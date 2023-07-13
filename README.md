@@ -1,30 +1,23 @@
-# Hello website!
+# Weather-App
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+## Technical details
 
-## What's in this project?
+![JavaScript](https://camo.githubusercontent.com/94c215d7f2c57e13c70c13b55ce983dc9e241e6fe0a53348e9f07a8d124bbbb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666)
+![HTML](https://camo.githubusercontent.com/b01b4e89c3944db941668d6baf68aab458a57bdacaf8cdfafb3f166ed1987e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d4533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666)
+![CSS](https://camo.githubusercontent.com/74e6ff495ccdbb5e42f7e5b030c0afbbbcbdbd17952c80d058ef30b8ac73f468/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d666666)
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+## Features
+This project implements API of weather.
+GSAP animation.
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+## Preview
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+![Weather - Google Chrome 13 07 2023 12_39_44](https://github.com/TatianaBrt/Weather-App/assets/115479875/65fc6940-2cd5-4eac-a240-2e283b75e43e)
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
 
-Open each file and check out the comments (in gray) for more info.
 
-## Try this next 🏗️
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-## You built this with Glitch!
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
