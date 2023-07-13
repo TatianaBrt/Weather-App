@@ -12,7 +12,7 @@ GSAP animation.
 
 ## Preview
 
-![Weather - Google Chrome 13 07 2023 12_39_44](https://github.com/TatianaBrt/Weather-App/assets/115479875/65fc6940-2cd5-4eac-a240-2e283b75e43e)
+
 
 
 
