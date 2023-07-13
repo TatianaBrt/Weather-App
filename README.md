@@ -11,6 +11,18 @@ This project implements API of weather.
 GSAP animation.
 
 ## Preview
+![Weather - Google Chrome 13 07 2023 12_48_43](https://github.com/TatianaBrt/Weather-App/assets/115479875/12bde489-2fd9-41d3-a248-9ad00e2d312f)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
